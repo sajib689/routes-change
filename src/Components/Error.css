@@ -1,0 +1,36 @@
+.error-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 8rem;
+    margin-bottom: 0;
+    color: #ff0000;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin: 0;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  a {
+    font-size: 1.2rem;
+    color: #0000ff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
